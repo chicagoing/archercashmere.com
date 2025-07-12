@@ -163,7 +163,7 @@ main {
 }
 .hero__img {
   grid-area: hero-img;
-  background: url('https://cdn.glitch.global/764f8ddd-71d6-4644-9884-43eec3e56584/IMG_5814.jpeg?v=1735348230681');
+  background: url('/glitch-assets//IMG_5814.jpeg');
   background-size: cover;
   background-position: center;
   min-height: 450px;
@@ -174,7 +174,7 @@ main {
 }
 .hero__img--sidebar {
   grid-area: hero-sidebar;
-  background-image: url('https://cdn.glitch.global/764f8ddd-71d6-4644-9884-43eec3e56584/sitting-with-snow.jpeg?v=1736625300077');
+  background-image: url('/glitch-assets/sitting-with-snow.jpeg');
   background-size: cover;
   background-position: center;
   min-height: 500px;
@@ -235,11 +235,11 @@ main {
   .photos__item { min-height: 500px; }
 }
 .photos__item--1 {
-  background-image: url('https://cdn.glitch.global/764f8ddd-71d6-4644-9884-43eec3e56584/L1011378-Edit.jpeg?v=1735590236963');
+  background-image: url('/glitch-assets//L1011378-Edit.jpeg');
 }
 .photos__item--2 {
-  background-image: url('https://cdn.glitch.global/764f8ddd-71d6-4644-9884-43eec3e56584/L1011446.jpg?v=1735590318227');
+  background-image: url('/glitch-assets/L1011446.jpg');
 }
 .photos__item--3 {
-  background-image: url('https://cdn.glitch.global/764f8ddd-71d6-4644-9884-43eec3e56584/L1011384-2.jpeg?v=1735590247455');
+  background-image: url('/glitch-assets/L1011384-2.jpeg');
 }
