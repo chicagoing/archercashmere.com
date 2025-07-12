@@ -163,7 +163,7 @@ main {
 }
 .hero__img {
   grid-area: hero-img;
-  background: url('/glitch-assets//IMG_5814.jpeg');
+  background: url('/glitch-assets/IMG_5814.jpeg');
   background-size: cover;
   background-position: center;
   min-height: 450px;
